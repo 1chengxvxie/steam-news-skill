@@ -1,0 +1,464 @@
+{
+  "schema_version": 1,
+  "generator": "steam-news-skill",
+  "generated_at": "2026-10-22T09:39:15Z",
+  "status": "partial",
+  "region": {
+    "cc": "cn",
+    "lang": "schinese"
+  },
+  "sources": {
+    "steam_news": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
+    "store": "https://store.steampowered.com/api/featuredcategories?cc=cn&l=schinese",
+    "rsshub_base": "https://rsshub.app"
+  },
+  "sections": {
+    "steam-news": {
+      "ok": true,
+      "error": null,
+      "apps": [
+        {
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "ok": true,
+          "error": null,
+          "items": [
+            {
+              "gid": "1846651706695791",
+              "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
+              "author": "",
+              "feed": "Rock, Paper, Shotgun",
+              "date": "2026-10-20T14:45:11Z",
+              "summary": "I'm strongly of the opinion that loot boxes , gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alt…"
+            },
+            {
+              "gid": "1846651706675829",
+              "title": "Counter-Strike 2 Update",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
+              "author": "Vitaliy",
+              "feed": "Community Announcements",
+              "date": "2026-10-14T23:02:48Z",
+              "summary": "\\Demo/Replay viewer improvements:Added a progress bar for demo/replay downloadsCamera controls now use click-and-drag schemeFree and chase camera are usable during a paused demoFixed some minor issues when seeking to a different position in the demo file\\Round backup files now re…"
+            },
+            {
+              "gid": "1846018067932423",
+              "title": "Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-09T07:28:45Z",
+              "summary": "Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые эффекты и геометрию карт, а также принёс несколько технических исправлений. Размер загрузки составил около 539 МБ. Главное изменение касается AUG: время перезарядки винто…"
+            }
+          ]
+        },
+        {
+          "appid": 570,
+          "name": "Dota 2",
+          "ok": true,
+          "error": null,
+          "items": [
+            {
+              "gid": "1846018067925681",
+              "title": "В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925681",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-07T10:15:07Z",
+              "summary": "В Dota 2 вышла сокровищница Trove of Terror. Она принесла 19 косметических предметов, включая 15 наборов уровня Immortal и две арканы — для Drow Ranger и Tidehunter. Разработчики также добавили механику, снижающую риск неудачных открытий. Обе арканы гарантированно выпадут на 50-м…"
+            },
+            {
+              "gid": "1846018067924633",
+              "title": "Inside the Trove of Terror",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924633",
+              "author": "eugenep",
+              "feed": "Community Announcements",
+              "date": "2026-10-07T00:22:41Z",
+              "summary": "Some time ago, a time now none of us can quite recall, we began to set our minds on matters of the monstrous. Our work has always concerned itself with the manufacture of frightening things, so there was no reason at that time for alarm.Until we began to fill a new treasure chest…"
+            },
+            {
+              "gid": "1843481262705400",
+              "title": "7.41f Gameplay Patch",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705400",
+              "author": "flynnch",
+              "feed": "Community Announcements",
+              "date": "2026-09-15T18:44:25Z",
+              "summary": "Patch 7.41f is out now and you can check out the patch notes here. In addition, we've recently addressed the following issues: Fixed spot on map near the top Roshan Pit where a hero could hide within the geometry of the cave Fixed being able to mark items for sale that are normal…"
+            }
+          ]
+        },
+        {
+          "appid": 1091500,
+          "name": "赛博朋克 2077",
+          "ok": true,
+          "error": null,
+          "items": [
+            {
+              "gid": "1847286114031371",
+              "title": "Cyberpunk 2077 получила поддержку Xbox Play Anywhere",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114031371",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-22T04:13:22Z",
+              "summary": "Ролевой экшен Cyberpunk 2077 от студии CD Projekt RED официально вошел в программу Xbox Play Anywhere. Теперь владельцы цифровой версии игры для консолей Xbox автоматически получают бесплатную копию для Windows-ПК через приложение Xbox, и наоборот. Соответствующая маркировка уже…"
+            },
+            {
+              "gid": "1847286114029841",
+              "title": "Cyberpunk 2077's Edgerunners 2 update adds two new quests, handgun dual wielding and the ability to pimp your mantis blades",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1847286114029841",
+              "author": "",
+              "feed": "Rock, Paper, Shotgun",
+              "date": "2026-10-21T16:09:58Z",
+              "summary": "A beefy new Cyberpunk 2077 update arrives tomorrow, October 22nd, fresh on the heels of the second series of the Cyberpunk Edgerunners anime which dropped earlier this week. It's dubbed update 2.5 and delivers an Edgerunners 2-themed quest alongside a heap of other additions. Rea…"
+            },
+            {
+              "gid": "1847286114029512",
+              "title": "CD Projekt Red представила полный список изменений обновления 2.5 для Cyberpunk 2077",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114029512",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-21T16:07:36Z",
+              "summary": "Студия CD Projekt Red раскрыла подробности нововведений, которые появятся в Cyberpunk 2077 с выходом обновления 2.5. Среди них — новое задание, служащее приквелом ко второму сезону аниме «Cyberpunk: Edgerunners». После сегодняшнего стрима REDstream были опубликованы официальные п…"
+            }
+          ]
+        },
+        {
+          "appid": 1245620,
+          "name": "艾尔登法环",
+          "ok": true,
+          "error": null,
+          "items": [
+            {
+              "gid": "1846651706694731",
+              "title": "Elden Ring получила обновление 1.17.2 - FromSoftware исправила эксплойт со стрелами",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706694731",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-20T10:47:53Z",
+              "summary": "FromSoftware выпустила обновление 1.018.002 для Elden Ring, соответствующее версии 1.17.2. Патч доступен на ПК, PlayStation и Xbox и устраняет несколько ошибок, включая эксплойт, позволявший накапливать эффекты статуса при определённом способе стрельбы из лука. Разработчики испра…"
+            },
+            {
+              "gid": "1845383656393031",
+              "title": "STARSCOURGE RADAHN JOINS THE ELDEN RING FIGUARTS MINI SERIES",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393031",
+              "author": "[BNE] *****",
+              "feed": "Community Announcements",
+              "date": "2026-10-05T10:00:24Z",
+              "summary": "The roar of the Red Lion echoes to the heavens. He built his might out of love and loyalty, an unstoppable force that bade the stars to halt at the cry of a true champion. And in the Wailing Dunes, the loyalty he shared with others freed him from a fate worse than death. Now, the…"
+            },
+            {
+              "gid": "1845383656380097",
+              "title": "Стример не выходил из \"тюрьмы\", пока его мама не победила Маргита в Elden Ring - на это ушли 24 часа и 240 смертей",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656380097",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-01T06:52:07Z",
+              "summary": "Стример DrakeCummings решил проверить на практике популярную интернет-дилемму о том, сколько времени пришлось бы провести за решёткой, если освобождение зависело от успехов собственной матери в Elden Ring. Для этого он запер себя в импровизированной «тюремной камере» и заявил, чт…"
+            }
+          ]
+        },
+        {
+          "appid": 2358720,
+          "name": "黑神话：悟空",
+          "ok": true,
+          "error": null,
+          "items": [
+            {
+              "gid": "1845383656393215",
+              "title": "Black Myth: Wukong запустили на эмуляторе PS5 KyTyPS5 с 4-6 FPS - автор намерен добиться более 60 кадров",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656393215",
+              "author": "",
+              "feed": "PlayGround.ru - официальная группа",
+              "date": "2026-10-05T11:17:02Z",
+              "summary": "Пользователь под ником MourningWoodStar продемонстрировал запуск PS5-версии Black Myth: Wukong на эмуляторе KyTyPS5. На текущем этапе игра уже доходит непосредственно до геймплея, однако производительность составляет всего около 4–6 FPS. Сам автор подчёркивает, что работа находит…"
+            },
+            {
+              "gid": "1842212951301614",
+              "title": "Stellar Blade по-китайски: Зрелищные сражения в геймплейном трейлере ролевого экшена Genigods: Nezha для консолей и ПК",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842212951301614",
+              "author": "Павел Вескер",
+              "feed": "Gamemag.ru",
+              "date": "2026-08-27T19:17:00Z",
+              "summary": "Китайская студия Genigods Lab представила зрелищный геймплейный трейлер своего хардкорного ролевого экшена Genigods: Nezha , основанного на китайской мифологии. Проект создаётся для ПК , PlayStation 5 и Xbox Series X|S , а его релиз запланирован на 2028 год."
+            },
+            {
+              "gid": "1841579228678339",
+              "title": "Steam Global Top Sellers for week of 18 Aug — 25 August 2026",
+              "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1841579228678339",
+              "author": "SteamDB",
+              "feed": "SteamDB",
+              "date": "2026-08-25T09:00:00Z",
+              "summary": "* How to Fish ; * Call of Duty®: Modern Warfare® 4 ; * Mortal Shell II ; * WARDOGS ; * S.T.A.L.K.E.R. 2: Heart of Chornobyl ; * HELLDIVERS™ 2 ; * Big Walk ; * STAR WARS Zero Company™ ; * Black Myth: Wukong ; * No More Room in Hell 2 ; * excluding free to play games View top 100 o…"
+            }
+          ]
+        }
+      ]
+    },
+    "featured": {
+      "ok": true,
+      "error": null,
+      "items": [
+        {
+          "id": null,
+          "kind": "spotlight",
+          "name": "系列作品特卖",
+          "url": "https://store.steampowered.com/sale/Falloutfranchise2026",
+          "group": "Spotlights",
+          "currency": null,
+          "discount_percent": 0,
+          "original_price_minor": null,
+          "final_price_minor": null,
+          "price_text": null,
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/8c83d0c8ba97d24f5167fe85/633eff5b77a5b9ce7e5a632891003e2f6c700d33/vertical_capsule_schinese.jpg?t=1792187989",
+          "summary": "优惠截止时间：%1$s"
+        },
+        {
+          "id": null,
+          "kind": "spotlight",
+          "name": "周间特惠",
+          "url": "https://store.steampowered.com/app/1783560",
+          "group": "Spotlights",
+          "currency": null,
+          "discount_percent": 0,
+          "original_price_minor": null,
+          "final_price_minor": null,
+          "price_text": null,
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/22ff7c2ad414c717157112eb/8de5129d1e17cc05630136e5b810b2ace3555d34/vertical_capsule_english.png?t=1790702140",
+          "summary": "优惠截止时间：%1$s"
+        },
+        {
+          "id": null,
+          "kind": "spotlight",
+          "name": "周间特惠",
+          "url": "https://store.steampowered.com/app/463530",
+          "group": "Spotlights",
+          "currency": null,
+          "discount_percent": 0,
+          "original_price_minor": null,
+          "final_price_minor": null,
+          "price_text": null,
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/832db2412d3b68256dcf2606/880047ea19f11abec999d5ca82a319fe24ba8949/vertical_capsule_schinese.png?t=1791236441",
+          "summary": "优惠截止时间：%1$s"
+        },
+        {
+          "id": 1066890,
+          "kind": "app",
+          "name": "Automobilista 2",
+          "url": "https://store.steampowered.com/app/1066890",
+          "group": "Daily Deal",
+          "currency": "CNY",
+          "discount_percent": 70,
+          "original_price_minor": 11600,
+          "final_price_minor": 3480,
+          "price_text": "¥34.80（原价 ¥116.00，-70%）",
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066890/4ec180b6bc16ce430f12bfbc88f420c93cb48313/header.jpg?t=1781533387",
+          "summary": ""
+        }
+      ]
+    },
+    "specials": {
+      "ok": true,
+      "error": null,
+      "name": "优惠",
+      "items": [
+        {
+          "id": 1091500,
+          "kind": "app",
+          "name": "赛博朋克 2077",
+          "url": "https://store.steampowered.com/app/1091500",
+          "group": "优惠",
+          "currency": "CNY",
+          "discount_percent": 70,
+          "original_price_minor": 29800,
+          "final_price_minor": 8940,
+          "price_text": "¥89.40（原价 ¥298.00，-70%）",
+          "discount_ends": "2026-10-26T18:00:00Z",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/4e88035f3a75e69e0ef2005fc611a7fafcb227e1/header_schinese.jpg?t=1784714077",
+          "summary": ""
+        },
+        {
+          "id": 1174180,
+          "kind": "app",
+          "name": "Red Dead Redemption 2",
+          "url": "https://store.steampowered.com/app/1174180",
+          "group": "优惠",
+          "currency": "CNY",
+          "discount_percent": 75,
+          "original_price_minor": 27900,
+          "final_price_minor": 6975,
+          "price_text": "¥69.75（原价 ¥279.00，-75%）",
+          "discount_ends": "2026-10-22T17:00:00Z",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+          "summary": ""
+        },
+        {
+          "id": 2138330,
+          "kind": "app",
+          "name": "《赛博朋克 2077：往日之影》",
+          "url": "https://store.steampowered.com/app/2138330",
+          "group": "优惠",
+          "currency": "CNY",
+          "discount_percent": 40,
+          "original_price_minor": 14900,
+          "final_price_minor": 8940,
+          "price_text": "¥89.40（原价 ¥149.00，-40%）",
+          "discount_ends": "2026-10-26T18:00:00Z",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/d0d6f4824d0e819f68d46000e83fb9391d56d4b1/header_schinese.jpg?t=1784713876",
+          "summary": ""
+        }
+      ]
+    },
+    "top-sellers": {
+      "ok": true,
+      "error": null,
+      "name": "热销商品",
+      "items": [
+        {
+          "id": 4115450,
+          "kind": "app",
+          "name": "影之刃零",
+          "url": "https://store.steampowered.com/app/4115450",
+          "group": "热销商品",
+          "currency": "CNY",
+          "discount_percent": 0,
+          "original_price_minor": 26800,
+          "final_price_minor": 26800,
+          "price_text": "¥268.00",
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1792637475",
+          "summary": ""
+        },
+        {
+          "id": 4435490,
+          "kind": "app",
+          "name": "使命召唤®：现代战争® 4",
+          "url": "https://store.steampowered.com/app/4435490",
+          "group": "热销商品",
+          "currency": "CNY",
+          "discount_percent": 0,
+          "original_price_minor": 29800,
+          "final_price_minor": 29800,
+          "price_text": "¥298.00",
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg?t=1792523954",
+          "summary": ""
+        },
+        {
+          "id": 4115450,
+          "kind": "app",
+          "name": "影之刃零",
+          "url": "https://store.steampowered.com/app/4115450",
+          "group": "热销商品",
+          "currency": "CNY",
+          "discount_percent": 0,
+          "original_price_minor": 26800,
+          "final_price_minor": 26800,
+          "price_text": "¥268.00",
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1792637475",
+          "summary": ""
+        }
+      ]
+    },
+    "new-releases": {
+      "ok": true,
+      "error": null,
+      "name": "新品",
+      "items": [
+        {
+          "id": 4560000,
+          "kind": "app",
+          "name": "Battle Nap",
+          "url": "https://store.steampowered.com/app/4560000",
+          "group": "新品",
+          "currency": "CNY",
+          "discount_percent": 15,
+          "original_price_minor": 4200,
+          "final_price_minor": 3570,
+          "price_text": "¥35.70（原价 ¥42.00，-15%）",
+          "discount_ends": "2026-10-29T17:00:47Z",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560000/9b9f47c68c3e3f236b44663c5169a55e11d22ca5/header.jpg?t=1792661388",
+          "summary": ""
+        },
+        {
+          "id": 2451700,
+          "kind": "app",
+          "name": "Atrion Project",
+          "url": "https://store.steampowered.com/app/2451700",
+          "group": "新品",
+          "currency": "CNY",
+          "discount_percent": 0,
+          "original_price_minor": 4200,
+          "final_price_minor": 4200,
+          "price_text": "¥42.00",
+          "discount_ends": null,
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451700/24233d71dbbca027d94c84ec5ed86c4b6f4da227/header.jpg?t=1792660078",
+          "summary": ""
+        },
+        {
+          "id": 3596870,
+          "kind": "app",
+          "name": "樱姬7",
+          "url": "https://store.steampowered.com/app/3596870",
+          "group": "新品",
+          "currency": "CNY",
+          "discount_percent": 30,
+          "original_price_minor": 1800,
+          "final_price_minor": 1260,
+          "price_text": "¥12.60（原价 ¥18.00，-30%）",
+          "discount_ends": "2026-11-05T17:00:55Z",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596870/dc827bb9679c784294f4c2bbc48769d90ecfd04f/header.jpg?t=1792656716",
+          "summary": ""
+        }
+      ]
+    },
+    "rss": {
+      "ok": false,
+      "error": null,
+      "feeds": [
+        {
+          "name": "小黑盒",
+          "url": "https://rsshub.app/xiaoheihe/news",
+          "ok": false,
+          "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers.",
+          "items": []
+        },
+        {
+          "name": "机核",
+          "url": "https://rsshub.app/gcores/news",
+          "ok": false,
+          "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers.",
+          "items": []
+        },
+        {
+          "name": "游民星空",
+          "url": "https://rsshub.app/gamersky/news/pc",
+          "ok": false,
+          "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers.",
+          "items": []
+        }
+      ]
+    }
+  },
+  "failures": [
+    {
+      "section": "rss",
+      "target": "小黑盒",
+      "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers."
+    },
+    {
+      "section": "rss",
+      "target": "机核",
+      "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers."
+    },
+    {
+      "section": "rss",
+      "target": "游民星空",
+      "error": "HTTP 403: Due to cost considerations, we will gradually restrict access to rsshub.app for some feed readers."
+    }
+  ]
+}

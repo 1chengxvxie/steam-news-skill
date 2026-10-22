@@ -1,0 +1,21 @@
+{
+  "cc": "cn",
+  "lang": "schinese",
+  "count": 5,
+  "maxlength": 280,
+  "timeout": 20,
+  "rsshub_base": "https://rsshub.app",
+  "sections": ["steam-news", "featured", "specials", "top-sellers", "new-releases", "rss"],
+  "apps": [
+    {"appid": 730, "name": "Counter-Strike 2"},
+    {"appid": 570, "name": "Dota 2"},
+    {"appid": 1091500, "name": "赛博朋克 2077"},
+    {"appid": 1245620, "name": "艾尔登法环"},
+    {"appid": 2358720, "name": "黑神话：悟空"}
+  ],
+  "rss": [
+    {"name": "小黑盒", "path": "/xiaoheihe/news"},
+    {"name": "机核", "path": "/gcores/news"},
+    {"name": "游民星空", "path": "/gamersky/news/pc"}
+  ]
+}
